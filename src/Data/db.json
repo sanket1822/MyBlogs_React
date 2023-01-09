@@ -1,0 +1,22 @@
+{
+    "blogs": [
+      {
+        "title": "Day 1",
+        "author": "Jack",
+        "body": "First day is about introduction.",
+        "id": 1
+      },
+      {
+        "title": "day 2",
+        "author": "Jack",
+        "body": "Second day we done group meetings.",
+        "id": 2
+      },
+      {
+        "title": "Day 3",
+        "author": "John",
+        "body": "Third day we started working on our project.",
+        "id": 3
+      }
+    ]
+  }
